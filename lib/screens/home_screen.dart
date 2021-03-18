@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:profile_me/providers/user_bloc.dart';
 import 'package:profile_me/providers/users_provider.dart';
 import 'package:profile_me/widgets/app_name.dart';
 import 'package:profile_me/widgets/users_list.dart';
