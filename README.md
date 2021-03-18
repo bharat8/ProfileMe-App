@@ -1,4 +1,4 @@
-# profile_me
+# ProfileMe
 
 ProfileMe is an app that lets you socialize with people around you. You can filter with age and common interests and can interact with people of your liking. All of this packed in a nice and clean UI.
 
