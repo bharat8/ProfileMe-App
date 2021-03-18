@@ -18,6 +18,5 @@ You can either install with the link provided below or via following the steps :
  
 # Screenshots
 
-![Screenshot_20210318-195110043](https://user-images.githubusercontent.com/29004325/111644687-135e1600-8826-11eb-8b94-77e974074d98.jpg)
-![Screenshot_20210318-195132428](https://user-images.githubusercontent.com/29004325/111644708-1953f700-8826-11eb-9ab8-8898259880ed.jpg)
-![Screenshot_20210318-195345783](https://user-images.githubusercontent.com/29004325/111644813-2f61b780-8826-11eb-9da8-81cf72045c8c.jpg)
+![Screenshot_20210318-195110043](https://user-images.githubusercontent.com/29004325/111645772-11e11d80-8827-11eb-8125-2abb08d52eb2.jpg)
+
